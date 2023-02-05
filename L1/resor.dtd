@@ -1,0 +1,9 @@
+<!ELEMENT destination_object (destination+)>
+    <!ELEMENT destination (name, cost, todo, food, link)>
+    <!ATTLIST destination countries (thailand|bali|filippinerna) #REQUIRED>
+    <!ELEMENT name (#PCDATA)>
+    <!ELEMENT cost (#PCDATA)>
+    <!ELEMENT todo (#PCDATA)>
+    <!ELEMENT food (#PCDATA)>
+    <!ELEMENT link (#PCDATA)>
+    <!ATTLIST link url CDATA #REQUIRED>

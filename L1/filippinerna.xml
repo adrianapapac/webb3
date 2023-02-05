@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE destination_object SYSTEM "resor.dtd">
+
+<destination_object>
+
+    <destination countries="filippinerna">
+        <name>Manila</name>
+        <cost>Average spend per day = 54$</cost>
+        <todo>National museum, Straight up sky bar, Shangri-la plaza</todo>
+        <food>Adobo chicken</food>
+        <link url="https://philippines.travel/destinations/manila">Länk till reseguide</link>
+    </destination>
+
+
+    <destination countries="filippinerna">
+        <name>Palawan</name>
+        <cost>Average spend per day = 44$</cost>
+        <todo>Snorkling, Island hoping, safari</todo>
+        <food>Bulalo</food>
+        <link url="https://www.theadventurousflashpacker.com/philippines-palawan-travel-overview/">Länk till reseguide</link>
+    </destination>
+
+    <destination countries="filippinerna">
+        <name>boracay</name>
+        <cost>Average spend per day = 46$</cost>
+        <todo>white beach, zipline, helicopter tour</todo>
+        <food>Chicken nasal</food>
+        <link url="https://itsmorefuninthephilippines.co.uk/boracay/">Länk till reseguide</link>
+    </destination>
+
+</destination_object>

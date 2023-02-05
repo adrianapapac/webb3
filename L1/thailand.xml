@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone ="no"?> 
+<!DOCTYPE destination_object SYSTEM "resor.dtd">
+<destination_object>
+
+    <destination countries="thailand">
+        <name>Bangkok</name>
+        <cost>Average spend per day = 43$</cost>
+        <todo>Bangla road, Temple of the emerald buddha, Wat pho palace</todo>
+        <food>Pad thai</food>
+        <link url="https://www.willflyforfood.net/the-first-timers-travel-guide-to-bangkok/">Länk till reseguide</link>
+    </destination>
+
+
+    <destination countries="thailand">
+        <name>Phuket</name>
+        <cost>Average spend per day = 37$</cost>
+        <todo>Big buddha Phuket, Snorkling, Zip line</todo>
+        <food>Red curry</food>
+        <link url="https://www.inthailand.travel/phuket/">Länk till reseguide</link>
+    </destination>
+
+    <destination countries="thailand">
+        <name>Phi Phi Islands</name>
+        <cost>Average spend per day = 41$</cost>
+        <todo>Maya bay, Long beach, Loh lana Hiking</todo>
+        <food>Massaman curry</food>
+        <link url="https://theworldtravelguy.com/phi-phi-island-thailand/">Länk till reseguide</link>
+    </destination>
+
+</destination_object>

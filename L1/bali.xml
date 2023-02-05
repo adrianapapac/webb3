@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE destination_object SYSTEM "resor.dtd"> 
+
+<destination_object>
+
+    <destination countries="bali">
+        <name>Canggu</name>
+        <cost>Average spend per day = 48$</cost>
+        <todo>La brisa terrace, Batu bolong beach, Pura tanah lot temple</todo>
+        <food>Nasi goreng</food>
+        <link url="https://balibuddies.com/areas-of-bali/canggu/">Länk till reseguide</link>
+    </destination>
+
+
+    <destination countries="bali">
+        <name>Uluwatu</name>
+        <cost>Average spend per day = 51$</cost>
+        <todo>Padang beach, Uluwatu temple, Karang cliff</todo>
+        <food>Mie goreng</food>
+        <link url="https://balibuddies.com/uluwatu-beach/">Länk till reseguide</link>
+    </destination>
+
+    <destination countries="bali">
+        <name>Ubud</name>
+        <cost>Average spend per day = 42$</cost>
+        <todo>Monkey forest, rice tegallang, secret waterfall</todo>
+        <food>Chicken satay</food>
+        <link url="https://balibuddies.com/areas-of-bali/ubud/">Länk till reseguide</link>
+    </destination>
+
+</destination_object>
