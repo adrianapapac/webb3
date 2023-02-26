@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"  standalone="no"?>
+<!DOCTYPE subjects SYSTEM "subjects.dtd">
+
+<subjects>
+	<subject>
+		<name>Medieteknik</name>
+		<info>Medieteknik är ett ämne under ständig utveckling där man kombinerar olika digitala medier med interaktivitet för att skapa intressanta produkter och tjänster.</info>
+	</subject>
+	<subject>
+		<name>Musikvetenskap</name>
+		<info>Musikvetenskap spänner över områden som musiketnologi, musikhistoria och populärmusikstudier. Det handlar om studier av musik och musikanvändning från olika tider och ur olika perspektiv.</info>
+	</subject>
+	<subject>
+		<name>Svenska språket</name>
+		<info>Ämnet svenska språket utgår från en funktionell språksyn och är en stark drivkraft för flera samhällsfunktioner. Fokus ligger på hur det talade och skrivna språket skapar identiteter, relationer och föreställningar men också hur språket formas efter kommunikationssituationen.</info>
+	</subject>
+	<not_awailable>
+		Ingen info om ämnet.
+	</not_awailable>
+</subjects>

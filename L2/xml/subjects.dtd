@@ -1,0 +1,13 @@
+<!--
+subjects
+	subject
+	    name
+        info
+    not_awailable
+-->
+
+<!ELEMENT subjects (subject*, not_awailable)>
+	<!ELEMENT subject (name, info)>
+		<!ELEMENT name (#PCDATA)>
+		<!ELEMENT info (#PCDATA)>
+	<!ELEMENT not_awailable (#PCDATA)>
