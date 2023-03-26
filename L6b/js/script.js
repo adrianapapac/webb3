@@ -14,8 +14,8 @@ var myApiKey = "c9c4bf633fce8bffb4de0c1e81e5085d";	// Ersätt DIN-API-KEY med di
 var flickrImgElem;				// Referens till element där bilderna ska visas
 
 // Initiering av programmet
-function init() {
-	initMap();
+function init() {  
+	initMap(); 
 	mapLocationElem = document.getElementById("mapLocation"); //referns till elementet maplocation i html
 	flickrImgElem = document.getElementById("flickrImg");
 	let nameButtons = document.querySelectorAll("button"); //referens till div-elementet i html för knappar 
