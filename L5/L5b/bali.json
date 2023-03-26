@@ -6,8 +6,8 @@
     "cost": "Average spend per day = 48$",
     "todo": "La brisa terrace, Batu bolong beach, Pura tanah lot temple",
     "food": "Nasi goreng",
-    "link": {
-    "@url": "https://balibuddies.com/areas-of-bali/canggu/",
+    "@link": {
+    "url": "https://balibuddies.com/areas-of-bali/canggu/",
     "#text": "Länk till reseguide"
     }
     },
@@ -17,8 +17,8 @@
     "cost": "Average spend per day = 51$",
     "todo": "Padang beach, Uluwatu temple, Karang cliff",
     "food": "Mie goreng",
-    "link": {
-    "@url": "https://balibuddies.com/uluwatu-beach/",
+    "@link": {
+    "url": "https://balibuddies.com/uluwatu-beach/",
     "#text": "Länk till reseguide"
     }
     },
@@ -28,8 +28,8 @@
     "cost": "Average spend per day = 42$",
     "todo": "Monkey forest, rice tegallang, secret waterfall",
     "food": "Chicken satay",
-    "link": {
-    "@url": "https://balibuddies.com/areas-of-bali/ubud/",
+    "@link": {
+    "url": "https://balibuddies.com/areas-of-bali/ubud/",
     "#text": "Länk till reseguide"
     }
     }

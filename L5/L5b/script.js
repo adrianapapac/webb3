@@ -38,21 +38,3 @@ function getCountry(JSONtext) {
 
     msgElem.innerHTML = HTMLcode;
 }
-
-
-
-/*
-function getMovie(JSONtext) {
-let movies = JSON.parse(JSONtext).movie;
-let HTMLcode = "";
-for (let i = 0; i < movies.length; i++) {
-let movie = movies[i];
-HTMLcode += "<h2>" + movie.name + "</h2>";
-HTMLcode += "<h3>" + movie.staractor+ "</h3>";
-HTMLcode += "<p>" + movie.release + "</p>";
-
-HTMLcode += "<a href src=" + movie.imdb.url + "> Länk </a>";
-}
-
-msgElem.innerHTML = HTMLcode;
-}*/
