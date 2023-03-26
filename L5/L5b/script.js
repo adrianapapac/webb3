@@ -26,13 +26,14 @@ function getCountry(JSONtext) {
     let countries = JSON.parse(JSONtext).destination
     let HTMLcode = "";
     for (let i = 0; i < countries.length; i++) {
+        let destination = countries[i];
 
-        HTMLcode += "<h2>" + countries.name + "</h2>";
-        HTMLcode += "<h3>" + countries.cost + "</h3>";
-        HTMLcode += "<p>" + countries.todo + "</p>";
-        HTMLcode += "<p>" + countries.food + "</p>";
+        HTMLcode += "<h2>" + destination.name + "</h2>";
+        HTMLcode += "<h3>" + destination.cost + "</h3>";
+        HTMLcode += "<p>" + destination.todo + "</p>";
+        HTMLcode += "<p>" + destination.food + "</p>";
 
-        HTMLcode += "<a href src=" + countries.destination.link.url + "> Länk </a>";
+        HTMLcode += "<a href src=" + destination.link.url + "> Länk </a>";
     }
 
     msgElem.innerHTML = HTMLcode;
